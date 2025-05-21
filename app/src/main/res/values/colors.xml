@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pinkor">#FF6B6B</color>
+    <color name="DapinkLight">#FF3333</color>
+    <color name="Mpink">#eb7b7b</color>
+    <color name="Dapink">#8d2121</color>
+    <color name="safeGreen">#3a8519</color>
+    <color name="dangerRed">#ff0e0e</color>
+    <color name="warningYellow">#ffc000</color>
+    <color name="colorPrimaryLight">#efb7b7</color>
+    <color name="colorError">#bd1111</color>
+</resources>

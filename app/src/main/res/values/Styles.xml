@@ -1,0 +1,15 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/Dapink</item>
+        <item name="colorPrimaryDark">@color/Mpink</item>
+        <item name="colorAccent">@color/pinkor</item>
+    </style>
+
+    <!-- No ActionBar theme for activities that don't need one -->
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
